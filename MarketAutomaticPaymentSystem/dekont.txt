@@ -1,0 +1,8 @@
+
+Apple		Food		5.00		368
+Milk		Food		3.00		838
+Pants		Textile		50.00		998
+Coffe		Drink		4.00		108
+Battery		House		3.00		252
+Yoghurt		Food		7.00		467
+Toy		Baby		32.00		562
